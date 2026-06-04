@@ -1,0 +1,29 @@
+img{
+	width:145px;
+	height:145px;
+}
+
+#span_sec1, #span_sec2, #span_sec3, #span_sec4, #span_sec5, #span_sec6{
+	width:600px;
+	height:100px;
+	border:1px solid gray;
+	display:inline-block;
+}
+
+#sub>table>tr{
+	width:1250px;
+	height:100%;
+	text-align:center;
+}
+#sub>table>tr>td{
+	width:200px;
+	height:200px;
+	background-color:skyblue;
+	border:1px solid gray;
+}
+#txt1{
+	width:200px;
+	height:200px;
+	background-color:skyblue;
+	border:1px solid gray;
+}

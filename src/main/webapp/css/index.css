@@ -1,0 +1,133 @@
+li{
+	list-style: none;
+}
+#titlename{
+	color: lightblue;
+	font-size: 75px;
+	text-shadow: 2px 2px lightgrey;
+	position: relative;
+	top:100px;
+	left:725px;
+	font-weight:bold;
+}
+#bar{
+	width:1540px;
+	height:5px;
+	background-color: lightblue;
+	position: relative;
+	left:200px;
+	bottom:10px;
+}
+.images{
+    width:400px;
+    height:200px;
+    overflow:hidden;
+    position: relative;
+    left:1275px;
+    bottom:50px;
+}
+.pan{
+    width:400px;
+    height:600px;
+    position: relative;
+}
+.pan>li{
+    display: inline-block;
+}
+.slide{
+    width:400px;
+    height:200px; 
+}
+
+#wrap2{
+	position: relative;
+	left:30px;
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+#btn{
+	margin-top:20px;
+	margin-right:20px;
+}
+#btn>img{
+	width: 500px;
+	height: 500px;
+}
+#name{
+	background-color:grey;
+	width:500px;
+	height:500px;
+	position:absolute;
+    opacity:0;
+    font-size: 75px;
+    font-weight: bold;
+    color:white;
+    line-height: 6.5;
+    border:none;
+}
+#name:hover{
+	opacity: 75%;
+}
+
+#run{
+    width: 50px;
+    height: 50px;
+    position:relative;
+	left:1700px;
+	top:25px;
+}
+#run>img{
+    width: 50px;
+    height: 50px;
+}
+#email_back{
+    width:2000px;
+    height:1000px;
+    opacity: 75%;
+    background-color: #3a3b3c;
+    position: relative;
+    bottom:900px;
+    display: none;
+}
+#email{
+    width: 42.5%;
+    height: 600px;
+    background-color: lightblue;
+    position: relative;
+    left:550px;
+    bottom:1725px;
+    display: none;
+}
+#detail_text{
+    line-height: 3;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+}
+#input1, #input2{
+    font-weight: bold;
+    margin-left:25px;
+}
+#text1{
+    height:44px;
+    width:650px;
+    position: relative;
+    margin-left: 20px;
+}
+#text2{
+    height:300px;
+    width:650px;
+    position: relative;
+    margin-left: 20px;
+}
+#send{
+    position: relative;
+    top:20px;
+    left:700px;
+    width: 75px;
+    height: 50px;
+    background-color: lightgreen;
+    border:1px solid gray;
+}
