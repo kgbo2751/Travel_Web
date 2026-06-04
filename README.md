@@ -1,3 +1,3 @@
-Java(Eclipse) + HTML/CSS/JavaScript
+Eclipse + Java + HTML/CSS/JavaScript
 
 Frontend
