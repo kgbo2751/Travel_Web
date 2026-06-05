@@ -9,7 +9,9 @@ Frontend<br>
 <img width="343" height="136" alt="Comment Delete" src="https://github.com/user-attachments/assets/8ad024a8-5f3e-4c7a-b2ff-48c122dfa687" /><br><br>
 
 <img width="1903" height="371" alt="Content Submit" src="https://github.com/user-attachments/assets/668ad71e-171b-446b-93cd-e7e935551a29" /><br>
-<img width="1879" height="374" alt="content delete" src="https://github.com/user-attachments/assets/721e93ca-4d0f-4565-ad7f-619273236300" /><br><br>
+<img width="1879" height="374" alt="Content Delete" src="https://github.com/user-attachments/assets/5af69dff-4c03-4c78-9f15-987a0a9f9d04" /><br><br>
+
+<img width="1889" height="920" alt="Pages" src="https://github.com/user-attachments/assets/6a875b72-075b-460a-a538-565209bf94ab" /><br><br>
 
 <img width="1883" height="939" alt="Email" src="https://github.com/user-attachments/assets/f5066d01-b11e-4ad6-a9a0-ac722796ad8e" /><br><br>
 
